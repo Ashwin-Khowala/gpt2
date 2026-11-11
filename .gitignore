@@ -3,4 +3,7 @@ __pycache__/
 .vscode
 edu_fineweb10B
 hellaswag
-
+log/*.pt
+log/*.json
+hf_model/
+results/
